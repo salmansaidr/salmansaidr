@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salman
-- 👀 I’m interested in Web Design & Machine Learning
-- 🌱 I’m currently learning how to create wordpress theme
+- 👀 I’m interested in Web & Mobile Development
+- 🌱 I’m currently learning how to create iOS Application
 - 📫 How to reach me salman.1202@gmail.com
 
 <!---
